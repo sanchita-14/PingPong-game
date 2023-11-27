@@ -1,2 +1,2 @@
 # cn-stopwatch
-Project for Coding Ninjas Stopwatch
+Project for Coding Ninjas
